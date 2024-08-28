@@ -7,5 +7,9 @@ form.addEventListener('submit', (e) => {
     const name = data.get('name');
     const age = data.get('age');
 
-    alert(`Громодянин ${name}, якому ${age} років, підозрюється у шахрайстві в інтернеті`);
+    if (age < 10) {
+        alert(`Учень ${name}, якому ${age} років, рекомендована група "Minecraft Education"`);
+    } else {
+        alert(`Учень ${name}, якому ${age} років, рекомендована група "YOUNG WEB DEV"`)
+    }
 });
