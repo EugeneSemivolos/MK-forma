@@ -1,1 +1,1 @@
-https://education.minecraft.net/world/8c406fdc-8e5c-4496-b526-09d531cf0679?loaded=yes
+https://drive.google.com/drive/folders/1CY5SSKQH6BH_NccXvL3syO6d0mtVTpuI?usp=drive_link
