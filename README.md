@@ -1,1 +1,1 @@
-https://education.minecraft.net/world/a1135370-adac-4b58-9fce-9910eee84676?loaded=yes
+https://education.minecraft.net/world/8c406fdc-8e5c-4496-b526-09d531cf0679?loaded=yes
